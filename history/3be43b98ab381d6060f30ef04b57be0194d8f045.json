@@ -1,0 +1,102 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 1417,
+    "time": 1751969589,
+    "hash": "3be43b98ab381d6060f30ef04b57be0194d8f045"
+  },
+  ".hoa/worktree.json": {
+    "size": 2958,
+    "time": 1751769938,
+    "hash": "e6d03ee381da06581265f186f7d1b2818c621416"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713086044,
+    "hash": "5c58a7be3ecab778fc1aac59ddd57d6600fc8072"
+  },
+  "README.md": {
+    "size": 3425,
+    "time": 1737903595,
+    "hash": "8a3497618129223ed9e5c43cdceaad2889caa5a6"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737903595,
+    "hash": "8a3497618129223ed9e5c43cdceaad2889caa5a6"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737903595,
+    "hash": "8a3497618129223ed9e5c43cdceaad2889caa5a6"
+  },
+  "exams/2020年春中国近现代史纲要期末考核题.pdf": {
+    "size": 273254,
+    "time": 1737237805,
+    "hash": "92008ed0fc06f348d15cada596519b4971c753b1"
+  },
+  "exams/2022年春近现代史期末试题 (自收集,待补全).pdf": {
+    "size": 270276,
+    "time": 1737237805,
+    "hash": "92008ed0fc06f348d15cada596519b4971c753b1"
+  },
+  "exams/2023年春中国近现代史纲要期末考试回忆版试题.pdf": {
+    "size": 298892,
+    "time": 1701264546,
+    "hash": "b31cf9d66b9ec1547b8984df95368ff314612263"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1737903595,
+    "hash": "8a3497618129223ed9e5c43cdceaad2889caa5a6"
+  },
+  "materials/2023年春中国近现代史纲要串讲全文_夏提雅.pdf": {
+    "size": 336048,
+    "time": 1737237805,
+    "hash": "92008ed0fc06f348d15cada596519b4971c753b1"
+  },
+  "materials/2023年春近代史复习资料v1.2_Clouder.pdf": {
+    "size": 635083,
+    "time": 1737237805,
+    "hash": "92008ed0fc06f348d15cada596519b4971c753b1"
+  },
+  "materials/2024年春近代史串讲原文v1.3_串讲课转录组.pdf": {
+    "size": 271488,
+    "time": 1737237805,
+    "hash": "92008ed0fc06f348d15cada596519b4971c753b1"
+  },
+  "materials/考研近代史考点.pdf": {
+    "size": 42834145,
+    "time": 1701264546,
+    "hash": "b31cf9d66b9ec1547b8984df95368ff314612263"
+  },
+  "materials/近现代史题目.docx": {
+    "size": 37625,
+    "time": 1701264546,
+    "hash": "b31cf9d66b9ec1547b8984df95368ff314612263"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737903595,
+    "hash": "8a3497618129223ed9e5c43cdceaad2889caa5a6"
+  },
+  "notes/2021_NanGuoBean/教材重点梳理.pdf": {
+    "size": 461285,
+    "time": 1737174759,
+    "hash": "4a1ec8d6ab85dbbc63be3faf6c7cdde77eb4972c"
+  },
+  "notes/2021_本部网盘计划/《2018版近代史纲要》速查手册_本部资料.pdf": {
+    "size": 625847,
+    "time": 1737174759,
+    "hash": "4a1ec8d6ab85dbbc63be3faf6c7cdde77eb4972c"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1737903595,
+    "hash": "8a3497618129223ed9e5c43cdceaad2889caa5a6"
+  },
+  "tag.txt": {
+    "size": 205,
+    "time": 1701268719,
+    "hash": "5a29bcaadf3b82482a07226dae2415ee1db1d75e"
+  }
+}
