@@ -1,0 +1,96 @@
+ID: "GEIP1016"
+SimilarID: []
+Name: "中国近现代史纲要"
+CourseProperty:
+  Major:
+    - Year: "2022_2023"
+      Name: [ "工商管理", "经济", "自动化", "工业设计（合作办学）", "数字媒体艺术（合作办学）", "计算机", "电信", "能源", "材料", "建筑", "数学" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: ""
+      Semester: "春"
+  CourseType: "必修"
+  CourseID: "GEIP1016"
+  CourseName: "中国近现代史纲要"
+  Credit: "2.5"
+  CourseHour: "40.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "课堂表现"
+      Percentage: 10
+    - Name: "讨论与展示"
+      Percentage: 20
+    - Name: "论文"
+      Percentage: 20
+    - Name: "期末考试"
+      Percentage: 50
+  CourseHourComposition:
+    - Name: ""
+      Hour: ""
+
+  Major:
+    - Year: "2023_2024"
+      Name: [ "数字媒体艺术（合作办学）", "建筑学（合作办学）", "工科试验班（计算机与电子通信）", "工科试验班（自动化与电气工程）", "工科试验班（先进材料类）", "经济管理试验班", "建筑", "工业设计（合作办学）", "工科试验班（机器人与智能装备）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: ""
+      Semester: "春"
+  CourseType: "必修"
+  CourseID: "GEIP1016"
+  CourseName: "中国近现代史纲要"
+  Credit: "2.5"
+  CourseHour: "40.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "课堂表现"
+      Percentage: 10
+    - Name: "讨论与展示"
+      Percentage: 20
+    - Name: "论文"
+      Percentage: 20
+    - Name: "期末考试"
+      Percentage: 50
+  CourseHourComposition:
+    - Name: ""
+      Hour: ""
+
+  Major:
+    - Year: "2024_2025"
+      Name: [ "电气工程及其自动化", "工科试验班（机器人与智能装备）", "化学", "数字媒体艺术", "工科试验班（空天科技）", "工科试验班（智慧能源与低空动力）", "经济管理试验班", "工科试验班（计算机与电子通信）", "工科试验班（生态环境类）", "建筑类（智慧人居类）", "工科试验班（智能土木类）", "工科试验班（先进材料类）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: ""
+      Semester: "春"
+  CourseType: "必修"
+  CourseID: "GEIP1016"
+  CourseName: "中国近现代史纲要"
+  Credit: "2.5"
+  CourseHour: "40.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "课堂表现"
+      Percentage: 10
+    - Name: "讨论与展示"
+      Percentage: 20
+    - Name: "论文"
+      Percentage: 20
+    - Name: "期末考试"
+      Percentage: 50
+  CourseHourComposition:
+    - Name: ""
+      Hour: ""
