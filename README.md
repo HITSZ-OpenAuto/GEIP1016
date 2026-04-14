@@ -12,10 +12,10 @@
 ![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2.5-moccasin)
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
-![课堂表现10%](https://img.shields.io/badge/课堂表现-10%25-wheat)
-![讨论与展示20%](https://img.shields.io/badge/讨论与展示-20%25-wheat)
-![论文20%](https://img.shields.io/badge/论文-20%25-wheat)
-![期末考试50%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-50%25-wheat)
+![课堂表现20%](https://img.shields.io/badge/课堂表现-20%25-wheat)
+![讨论与展示10%](https://img.shields.io/badge/讨论与展示-10%25-wheat)
+![论文10%](https://img.shields.io/badge/论文-10%25-wheat)
+![期末考试60%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat)
 
 ## 关于考试
 - 考试题型：选择题、简答题、材料题、论述题。
@@ -31,6 +31,10 @@
 2025 年的近现代史串讲与考试并无关联。值得庆幸的是，大部分考试内容都被初高中历史课本囊括了。但马工程《中国近现代史纲要》与初高中历史课本内容的差集在考试中也几乎都是重点。
 
 > 文 / [Fun10165](https://github.com/Fun10165), 2026.1
+
+2026年的近现代史变为了半开卷设计，允许学生自带一张A4纸参加考试。同时，课程的整体分数占比也有了变化。
+
+> 文 / l3, 2026.4
 
 ### 历史
 
