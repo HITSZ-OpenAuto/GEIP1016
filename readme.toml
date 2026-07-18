@@ -1,8 +1,6 @@
 course_name = "中国近现代史纲要"
-repo_type = "normal"
 course_code = "GEIP1016"
-
-description = ""
+repo_type = "normal"
 
 [[sections]]
 title = "关于考试"
