@@ -1,12 +1,5 @@
 # GEIP1016 - 中国近现代史纲要
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![课堂表现10%](https://img.shields.io/badge/课堂表现-10%25-wheat)
-![讨论与展示20%](https://img.shields.io/badge/讨论与展示-20%25-wheat)
-![论文20%](https://img.shields.io/badge/论文-20%25-wheat)
-![期末考试50%](https://img.shields.io/badge/期末考试-50%25-wheat)
 
 ## 关于考试
 <!-- TOML-SECTION: title="关于考试" -->
